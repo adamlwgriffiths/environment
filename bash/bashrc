@@ -10,7 +10,7 @@ do
     # check if the script is executable
     if [ -x "${script}" ]; then
         # run the script
-        ${script}
+        source ${script}
     fi
 done
 
