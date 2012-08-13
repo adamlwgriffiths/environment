@@ -34,6 +34,7 @@ set smarttab
 " example) can result in problems. It is safer and more
 " portable to use spaces for indenting.
 "set expandtab
+"set nosmartindent
 
 " People like using real tab character instead of spaces
 " because it makes it easier when pressing BACKSPACE or DELETE,
